@@ -1,0 +1,17 @@
+
+        .bg-teal{
+            background: teal;
+        }
+        .text-white{
+            color: white;
+        }
+        .bg-grey{
+            background: grey;
+        }
+        .main-container{
+            background:#ffe4c4 ;
+            color: #505050;
+            margin: 50px 50px 500px;
+            padding: 40px 40px 40px;
+            font-family: sans-serif;
+        }
